@@ -1,5 +1,5 @@
 - @IIII4-4I
-- Interested and learning in Python, HTML/CSS and TypeScript
+- Interested and in learning Python, HTML/CSS, TypeScript and C++
 - How to reach me: no
 
 <!---
